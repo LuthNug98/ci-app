@@ -25,6 +25,7 @@
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="<?php echo base_url(); ?>">Home <span class="sr-only">(current)</span></a>
       <a class="nav-item nav-link" href="<?php echo base_url(); ?>mahasiswa">Mahasiswa</a>
+      <a class="nav-item nav-link" href="<?php echo base_url(); ?>peoples">Peoples</a>
       <a class="nav-item nav-link" href="#">About</a>
     </div>
      	</div>
